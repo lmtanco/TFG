@@ -2,3 +2,7 @@ CAPITULO 1
 ----------
 
 Este TFG ha sido desarrollado en la Universidad de Málaga. 
+
+La estructura de la memoria es la siguiente. 
+
+
