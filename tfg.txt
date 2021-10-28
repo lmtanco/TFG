@@ -6,4 +6,14 @@ Este TFG ha sido desarrollado en la Universidad de Málaga.
 La estructura de la memoria es la siguiente. 
 
 
-- Capítulo 1. 
+- Capítulo 1. Introducción
+- Capítulo 2. Requisitos del proyecto. 
+- Capítulo 3. Especificación Funcional. 
+- Capítulo 4. Diseño. 
+- Capitulo 5. Desarrollo Software. 
+- Capítulo 6. Desarrollo Hardware.
+- Capítulo 7. Pruebas. 
+- Capítulo 8. Conclusiones y líneas futuras. 
+- Bibliografía. 
+
+
