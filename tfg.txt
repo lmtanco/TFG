@@ -6,7 +6,7 @@ Este TFG ha sido desarrollado en la Universidad de Málaga.
 La estructura de la memoria es la siguiente. 
 
 
-- Capítulo 1. Introducción
+- Cap�tulo 1. Introducci�n
 - Capítulo 2. Requisitos del proyecto. 
 - Capítulo 3. Especificación Funcional. 
 - Capítulo 4. Diseño. 
