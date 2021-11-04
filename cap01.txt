@@ -4,3 +4,7 @@ Introducción.
 
 
 Los proyectos de ingeniería actuales, por su complejidad y tamaño, requieren de profesionales de distintas ramas de la ingeniería. El ingeniero o la ingeniera de sistemas es quien se encarga de gobernar todos los aspectos técnicos de semejantes proyectos, hasta un nivel de detalle en que ya puede delegar en los ingenieros e ingenieras de las distintas disciplinas.  
+
+La carrera profesional de ingeniero/a de sistemas suele iniciarse tras una carrera en alguna de las disciplinas específicas de la ingeniería: mecánica, eléctrica, electrónica, de telecomunicación, de software, etc, y por tanto suele desempeñarse cuando ya se tienen unos años de experiencia profesional [buscar referencia INCOSE?]. No obstante, se ha visto conveniente en varias titulaciones de Máster, e incluso en titulaciones de Grados de ingeniería, el introducir nociones básicas de la ingeniería de sistemas, que al fin y al cabo no son sino buenas prácticas de la ingeniería moderna. 
+
+
