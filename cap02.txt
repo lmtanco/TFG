@@ -1,0 +1,8 @@
+Capítulo 2
+
+Requisitos del proyecto. 
+
+
+Este capítulo especifica los requisitos funcionales y no funcionales del trabajo fin de carrera. La estructura de capítulo refleja esta primera subdivisión. 
+
+
