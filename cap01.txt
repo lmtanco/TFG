@@ -3,4 +3,4 @@ Capítulo 1.
 Introducción. 
 
 
-Los proyectos de ingeniería actuales, por su complejidad y tamaño, requieren de profesionales de distintas ramas de la ingeniería. El ingeniero o la ingeniera de sistemas es quien se encarga de gobernar todos los aspectos técnicos de semejantes proyectos, hasta un nivel de detalle en que ya puede delegar en los ingenieros e ingenieras de las distintas disciplinas.  
+Los proyectos de ingeniería actuales, por su complejidad y tamaño, requieren de profesionales de distintas ramas de la ingeniería. La ingeniería de sistemas es la disciplina se encarga de gobernar todos los aspectos técnicos de semejantes proyectos, hasta un nivel de detalle en que ya puede delegar en los ingenieros e ingenieras de las disciplinas específicas.  
