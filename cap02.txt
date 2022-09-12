@@ -5,4 +5,7 @@ Requisitos del proyecto.
 
 Este capítulo especifica los requisitos funcionales y no funcionales del trabajo fin de carrera. La estructura de capítulo refleja esta primera subdivisión. 
 
+Los requisitos no funcionales pueden convertirse en requisitos funcionales mediante el análisis de la arquitectura física, pero la arquitectura física es aún desconocida en esta fase. Se trata de un problema de qué viene antes, si el huevo o la gallina. 
+
+
 
