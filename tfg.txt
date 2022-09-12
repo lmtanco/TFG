@@ -18,4 +18,5 @@ La estructura de la memoria es la siguiente.
 - Bibliografía. 
 - Apéndice 1. Planos del Software. 
 - Apéndice 2. Planos del Hardware. 
+- Ap�ndice 3. Manual de Usuario. 
 
