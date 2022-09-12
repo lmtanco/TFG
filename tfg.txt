@@ -6,6 +6,7 @@ Este TFG ha sido desarrollado en la Universidad de Málaga.
 La estructura de la memoria es la siguiente. 
 
 - Agradecimientos
+- Dedicatoria
 - Cap�tulo 1. Introducci�n
 - Capítulo 2. Requisitos del proyecto. 
 - Capítulo 3. Especificación Funcional. 
