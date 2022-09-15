@@ -16,7 +16,7 @@ La estructura de la memoria es la siguiente.
 - Capítulo 7. Pruebas. 
 - Capítulo 8. Conclusiones y líneas futuras. 
 - Bibliografía. 
-- Apéndice 1. Planos del Software. 
-- Apéndice 2. Planos del Hardware. 
+- Ap�ndice 1. Planos del Software. 
+- Ap�ndice 2. Planos del Hardware. 
 - Ap�ndice 3. Manual de Usuario. 
 
